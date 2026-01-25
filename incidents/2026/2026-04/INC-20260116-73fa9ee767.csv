@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260116-73fa9ee767","2026-01-16","scam","rug_pull","Reddit","https://www.reddit.com/r/CryptoScams/comments/1qf3zu6/looking_for_advice_after_scam/","User invested funds into a token that was rug pulled resulting in near total loss of assets","Invested funds into a newly launched token without exit liquidity safeguards","Avoid investing funds needed for rent or tuition into newly launched tokens","none"

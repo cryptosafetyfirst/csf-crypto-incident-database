@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260116-f784ab3a1d","2026-01-16","scam","exchange_scam","Reddit","https://www.reddit.com/r/CryptoScams/comments/1qf1kjm/elon_musks_crypto_casino/","Fake crypto casino promoted a large bonus then required a deposit to unlock withdrawals from a fabricated balance","Attempted to withdraw a bonus from a fake casino platform","Close the site and do not send any funds to unlock withdrawals","none"
