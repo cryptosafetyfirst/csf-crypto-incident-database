@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260126-f79b333b18","2026-01-26","scam","exchange_scam","Reddit","https://www.reddit.com/r/CryptoScams/comments/1qnv83i/safe_check_help/","User asked about the safety of seiwex.com which was identified as a newly registered domain with no history or presence indicating a fake exchange used to lure deposits.","none_obvious","do not visit or deposit funds on newly registered domains with no independent reputation","none"
