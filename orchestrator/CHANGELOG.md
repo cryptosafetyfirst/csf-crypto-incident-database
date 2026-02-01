@@ -5,6 +5,104 @@ Pipeline\
 Orchestrator Specification.
 
 No change is considered valid unless recorded here.
+**v1.3 --- 2026-01-01**
+
+**Status:** MINOR (governance automation enablement and schema
+enforcement hardening; non-breaking)
+
+- Revised Appendix M --- Weekly Governance Notes Input Contract.
+
+  - Authorized a machine-declared Weekly Governance Input Block as an
+    alternative to human-declared inputs.
+
+  - Preserves governance notes as non-canonical, non-analytical, and
+    advisory only.
+
+  - Enables deterministic, auditable automation of governance_notes.md
+    without introducing inference or analytical authority.
+
+- Introduced explicit authorization for deterministic governance
+  extractors.
+
+  - Allows governance inputs to be declared by a documented, fixed-rule
+    extractor when conditions are explicitly met.
+
+  - Requires all machine-declared inputs to remain qualitative only
+    (yes/no + short phrases).
+
+  - Prohibits metrics, counts, rankings, trend inference, or raw
+    incident text parsing.
+
+- Defined non-inferential governance declaration triggers.
+
+  - Classification ambiguity may be declared when classification_warning
+    ≠ none exists.
+
+  - Taxonomy pressure may be declared only when taxonomy analytics
+    explicitly label a "taxonomy pressure signal."
+
+  - Prevention mapping friction may be declared when conservative
+    refusal or unmappable prevention text is reported.
+
+  - Dataset integrity confirmation may be declared only when manifest
+    and pipeline integrity conditions are satisfied.
+
+- Preserved backward compatibility with human-declared governance
+  workflows.
+
+  - Manual Weekly Governance Input Blocks remain valid and supported.
+
+  - No changes required for existing analyst-led processes.
+
+- Hardened atomic incident ingest classification enforcement (Stage 1).
+
+  - Locked incident_type to the canonical set {scam, hack,
+    user_mistake}.
+
+  - Enforced incident_subtype compatibility with the selected
+    incident_type.
+
+  - Explicitly prohibited mechanism, domain, technology, or outcome
+    concepts from appearing in incident_type or incident_subtype.
+
+  - Introduced deterministic schema repair rules to prevent ingest
+    failure while preserving auditability.o Added mandatory
+    SCHEMA_VIOLATION_REPORT.md artifact to surface repaired fields
+    without silent correction.\
+    o Explicitly clarified that schema enforcement does not constitute
+    analytical reclassification.
+
+- Hardened weekly CSV splitting utility to prevent false schema
+  validation failures (operational tooling).
+
+  - Updated the incidents.csv → single-incident CSV splitter to
+    normalize id and first_observed_date using trim and NBSP
+    sanitization prior to validation.
+
+  - Prevents fail-fast regex validation from rejecting valid dates due
+    to leading/trailing whitespace or non-breaking spaces introduced
+    during export.
+
+  - Maintains canonical safety guarantees (no overwrites; one row per
+    output file) while improving reproducibility across Windows export
+    environments.
+
+**No changes were made to:**
+
+- pipeline stage ordering,
+
+- required inputs or outputs,
+
+- prompt execution behavior (Appendices F--I),
+
+- taxonomy structure,
+
+- prevention action sets, or
+
+- immutability guarantees.
+
+Artifacts produced under v1.0--v1.2 remain valid and unaffected.
+------------------------------------------------------------------------
 
 **v1.2 --- 2026-01-25**
 
