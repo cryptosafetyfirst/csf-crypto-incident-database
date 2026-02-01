@@ -5,6 +5,7 @@ Pipeline\
 Orchestrator Specification.
 
 No change is considered valid unless recorded here.
+
 **v1.3 --- 2026-01-01**
 
 **Status:** MINOR (governance automation enablement and schema
