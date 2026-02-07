@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260204-d8676cd912","2026-02-04","hack","wallet_software_exploit","X","https://x.com/shieldedfyi/status/2018915767597859147","Wallet was drained after an old token approval was exploited when a connected protocol was compromised.","Left a legacy token approval active for years.","Revoke all unused token approvals using revoke.cash","none"

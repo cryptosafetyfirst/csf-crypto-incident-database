@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260204-7aed0ee21a","2026-02-04","hack","malware","Reddit","https://www.reddit.com/r/defi/comments/1qvo20m/got_hacked_is_there_anything_i_can_do/","Attacker drained a Rabby wallet and swapped assets after gaining control likely through malware that exposed the seed phrase.","Used a wallet on a compromised computer.","Move funds using a clean device immediately / reinstall operating system before wallet use","none"

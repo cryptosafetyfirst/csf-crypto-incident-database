@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260204-5a56fe2982","2026-02-04","scam","exchange_scam","Reddit","https://www.reddit.com/r/CryptoScams/comments/1qvn3a6/avoid_ychanger_scam/","User sent bitcoin to an online exchanger which canceled the transaction and returned funds minus an undisclosed fee.","Sent funds to an obscure exchanger based on advertised rates.","Use only well established exchanges with transparent fee schedules","none"
