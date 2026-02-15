@@ -6,6 +6,73 @@ Orchestrator Specification.
 
 No change is considered valid unless recorded here.
 
+**v1.4 --- 2026-02-10**
+
+**Status: MINOR (governance extension; non-breaking)**
+
+- Introduced Appendix O --- FAQ Signal Report Output Contract (private
+  governance appendix).
+
+  - Defines a deterministic, CW-scoped output contract for
+    faq_signal_report.md.
+
+  - Establishes FAQ alignment as a governance-only, downstream
+    validation mechanism.
+
+  - Constrains FAQ updates to evidence derived solely from canonical
+    weekly inputs.
+
+  - Explicitly prohibits intuition-driven, anecdotal, UX-, SEO-, or
+    marketing-led FAQ changes.
+
+  - Confirms FAQ signal reports as non-public, non-educational,
+    non-analytical, and non-canonical.
+
+- Introduced Appendix P --- Defensive Coverage Gap Governance (private
+  governance appendix).
+
+  - Defines a CW-scoped defensive sufficiency audit for existing CSF
+    defensive materials.
+
+  - Evaluates whether observed prevention failures are already addressed
+    by the Defensive Canon.
+
+  - Establishes explicit halt authority if defensive canon materials are
+    unavailable or ambiguous.
+
+  - Prohibits inference, prioritization, recommendation, or feedback
+    into intelligence outputs.
+
+  - Confirms defensive coverage gap reports as non-public,
+    non-educational, and non-analytical.
+
+- • Added explicit authorization for non-public derived governance
+  artifacts in the public specification.
+
+  - Clarifies that downstream governance artifacts may exist for
+    editorial or educational alignment checks.
+
+  - o Affirms that such artifacts are read-only consumers of
+    intelligence with no upstream authority.
+
+No changes were made to:
+
+- pipeline stage ordering,
+
+- incident ingest or classification logic,
+
+- taxonomy structure or labels,
+
+- prevention mapping definitions,
+
+- intelligence outputs or verdict generation,
+
+- risk scoring behavior, or
+
+- immutability and determinism guarantees.
+
+Artifacts produced under v1.0--v1.3 remain valid and unaffected.
+
 **v1.3 --- 2026-01-01**
 
 **Status:** MINOR (governance automation enablement and schema
