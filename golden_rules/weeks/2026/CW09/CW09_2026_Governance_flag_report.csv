@@ -1,0 +1,2 @@
+week_scope_label,week_scope_type,date_range_start,date_range_end,orchestrator_version,incident_count_in_scope,review_timestamp,classification_modified,taxonomy_modified,rule_created,rule_deprecated
+2026-CW09,csf_report_window,2026-02-21,2026-02-28,v1.4,76,2026-02-28T15:36:11.388284,False,False,False,False

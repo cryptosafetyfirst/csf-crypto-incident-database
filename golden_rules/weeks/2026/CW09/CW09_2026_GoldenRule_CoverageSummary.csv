@@ -1,0 +1,9 @@
+rule_id,not_applicable,prevented,coverage_density_percent
+GR-001,75,1,1.32
+GR-002,26,50,65.79
+GR-003,76,0,0.0
+GR-004,73,3,3.95
+GR-005,71,5,6.58
+GR-006,74,2,2.63
+GR-007,75,1,1.32
+GR-008,15,61,80.26
