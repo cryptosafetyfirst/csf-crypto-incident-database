@@ -1,0 +1,13 @@
+incident_type,subtype,incident_count,pattern_summary,recommend_rule_creation
+scam,exchange_scam,13,Deposits into attacker-controlled custody simulation platforms; withdrawal friction/fees.,TRUE
+scam,token_launch_scam,6,Presale/token launch promotions leading to drain or direct transfers.,TRUE
+scam,social_media_scam,5,Funds sent to social media promoters/managers; legitimacy theater.,TRUE
+user_mistake,tax_recordkeeping,3,Inability to compute cost basis/gains due to missing transaction history.,TRUE
+scam,rug_pull,2,Token liquidity removed or sell-blocked after promotion.,FALSE
+scam,crypto_wallet_scam,2,Wallet/drainer style sites prompting wallet connection/approvals.,FALSE
+user_mistake,lost_wallet_access,1,Missing keys/seed prevents access to wallet funds.,FALSE
+scam,nft_scam,1,Unsolicited NFT offers leading to wallet connect or fees.,FALSE
+scam,job_scam,1,Task/job requiring deposits to unlock commissions/withdrawals.,FALSE
+scam,investment,1,Guaranteed returns / HYIP style deposit schemes.,FALSE
+scam,fake_app_or_extension,1,Fake app/extension harvests seed phrase.,FALSE
+scam,airdrop_scam,1,Unsolicited token claim sites prompt wallet connect.,FALSE

@@ -1,0 +1,3 @@
+flag_type,rule_id,details
+not_prevented_unavailable,*,No deterministic not_prevented discriminator in incident schema; weekly execution restricted to prevented/not_applicable.
+trend_vs_prior_week_unavailable,*,Prior Week Coverage Report not provided; trend acceleration checks skipped.
