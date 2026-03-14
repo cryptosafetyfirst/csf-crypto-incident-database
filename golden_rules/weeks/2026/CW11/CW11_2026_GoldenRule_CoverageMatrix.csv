@@ -1,0 +1,11 @@
+﻿entry_number,dominant_failure_point,GR-01,GR-02,GR-03,GR-04,GR-05,GR-06,GR-07
+1,platform_legitimacy_failure,prevented,NA,NA,NA,NA,NA,NA
+2,wallet_drain_contract,NA,prevented,NA,NA,NA,NA,prevented
+3,fake_exchange_withdrawal_fee,prevented,NA,prevented,NA,NA,NA,NA
+4,social_engineering_contact,NA,NA,NA,prevented,NA,NA,NA
+5,wrong_network_transfer,NA,NA,NA,NA,prevented,NA,NA
+6,account_compromise,NA,NA,NA,NA,NA,prevented,NA
+7,malicious_contract_signature,NA,prevented,NA,NA,NA,NA,prevented
+8,fake_investment_platform,prevented,NA,prevented,NA,NA,NA,NA
+9,address_poisoning,NA,NA,NA,NA,prevented,NA,NA
+10,impersonation_support,NA,NA,NA,prevented,NA,NA,NA

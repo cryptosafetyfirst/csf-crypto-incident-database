@@ -1,0 +1,8 @@
+﻿ule_id,rule_statement,prevented,not_prevented,not_applicable,coverage_percent
+GR-01,Verify the legitimacy of any crypto platform before interacting with it,18,0,31,36.7
+GR-02,Never approve unknown smart contracts or token permissions,7,0,42,14.3
+GR-03,Never send crypto to unlock withdrawals or pay platform “fees”,6,0,43,12.2
+GR-04,Avoid responding to unsolicited crypto-related messages or calls,5,0,44,10.2
+GR-05,Always confirm wallet addresses and network compatibility before sending,6,0,43,12.2
+GR-06,Maintain strong authentication and secure account credentials,4,0,45,8.2
+GR-07,Regularly review and revoke token approvals,3,0,46,6.1
