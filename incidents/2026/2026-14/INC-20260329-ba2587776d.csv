@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260329-ba2587776d","2026-03-29","scam","phishing","Reddit","https://www.reddit.com/r/Bitcoin/comments/1s786nm/synchronization_scam/","A scammer sent a direct message urging the user to visit a website to synchronize a wallet which is a deceptive tactic to gain access or approvals","none_obvious","Do not visit wallet links sent via unsolicited messages / access wallet only through official app or bookmark","none"
