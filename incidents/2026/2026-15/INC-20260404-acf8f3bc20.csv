@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260404-acf8f3bc20","2026-04-04","user_mistake","lost_wallet_access","Reddit","https://www.reddit.com/r/Bitcoin/comments/1sbundb/i_lost_my_seed_phrase_few_years_ago/","User reported losing seed phrase and is unable to access wallet funds due to missing recovery credentials","Failed to retain recovery phrase required for wallet access","Store recovery phrases securely in multiple controlled locations","none"

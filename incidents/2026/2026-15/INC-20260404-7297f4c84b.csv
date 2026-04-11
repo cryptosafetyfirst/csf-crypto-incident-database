@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260404-7297f4c84b","2026-04-04","hack","wallet_software_exploit","Bitget","https://www.bitget.com/news/detail/12560605337001","Attacker monitored a wallet and executed rapid unauthorized transfers immediately after funds were deposited draining the entire balance within minutes","none_obvious","Move funds to a fresh wallet not previously exposed to monitoring and approvals","insufficient detail on exploit mechanism"
