@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260415-5bee54836e","2026-04-15","user_mistake","wrong_network","Reddit","https://www.reddit.com/r/binance/comments/1slavjc/chose_wrong_network_when_transferring/","User transferred ETH using an incorrect network resulting in funds being inaccessible in the destination wallet","Selected an incompatible network during transfer","Confirm network selection matches the receiving wallet before sending funds","none"

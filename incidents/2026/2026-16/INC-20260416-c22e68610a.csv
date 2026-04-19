@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260416-c22e68610a","2026-04-16","scam","phishing","X","https://x.com/web3_antivirus/status/2044862893863170525","Attackers used compromised social media accounts to post phishing links impersonating a legitimate DeFi project within real discussion threads","none_obvious","Verify account authenticity before interacting with links in replies / access project links only through official profiles or websites","none"
