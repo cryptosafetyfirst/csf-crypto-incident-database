@@ -6,6 +6,250 @@ Orchestrator Specification.
 
 No change is considered valid unless recorded here.
 
+**v1.5 \-\-- 2026-05-24**
+
+Status: MINOR (governance visibility expansion, analytical layer
+separation, and registry governance hardening; non-breaking)
+
+Revised Appendix K \-\-- README Generation Contract.
+
+Clarified downstream artifact positioning and orchestration alignment
+behavior.
+
+Strengthened separation between canonical intelligence artifacts and
+downstream analytical/governance overlays.
+
+Preserved README generation as a derived publication artifact only.
+
+Revised Appendix G \-\-- Atomic Incident Ingest Governance Hardening.
+
+Expanded deterministic validation and schema enforcement visibility.
+
+Clarified repair visibility boundaries and deterministic schema
+correction behavior.
+
+Preserved canonical ingest immutability and Stage 1 authority
+boundaries.
+
+Revised Appendix P \-\-- CSF Rule Alignment Snapshot Contract.
+
+Replaced prior Defensive Coverage Gap governance appendix with a formal
+downstream defensive alignment visibility layer.
+
+Introduced deterministic governance visibility for:
+
+- recurrence concentration,
+
+- defensive layer distribution,
+
+- alignment coverage,
+
+- and residual / uncertain mappings.
+
+Established csf_rule_alignment_snapshot.md as a downstream governance
+visibility artifact.
+
+Explicitly confirmed:
+
+- non-canonical authority,
+
+- non-modification of incidents,
+
+- non-modification of taxonomy,
+
+- non-modification of prevention mappings,
+
+- and non-modification of governance rules.
+
+Introduced fixed rendering structure and locked table schemas:
+
+- \| Rule \| Occurrences \|
+
+- \| Defensive Layer \| Occurrences \|
+
+Introduced Appendix Q \-\-- CSF Rule Governance Delta Contract.
+
+Established a governance advisory visibility layer for:
+
+- recurrence pressure,
+
+- persistent concentration behavior,
+
+- uncovered defensive patterns,
+
+- registry fragmentation visibility,
+
+- and candidate rule emergence visibility.
+
+Introduced csf_rule_governance_delta.md as a downstream governance
+advisory artifact.
+
+Explicitly prohibited:
+
+- autonomous governance actions,
+
+- automatic rule creation,
+
+- registry modification,
+
+- and reinterpretation of canonical incident intelligence.
+
+Introduced fixed recurrence serialization schema:
+
+- \| Rule \| Occurrences \|
+
+Introduced Appendix R \-\-- Defensive Coverage Gap Report Contract.
+
+Formalized deterministic downstream defensive sufficiency visibility
+against the existing CSF Defensive Canon.
+
+Established defensive coverage evaluation against:
+
+- Practical Crypto & Web3 Safety Tools,
+
+- Three-Wallet Model materials,
+
+- CSF books,
+
+- and governance-approved defensive canon artifacts.
+
+Confirmed defensive coverage outputs as:
+
+- downstream,
+
+- non-canonical,
+
+- governance-oriented,
+
+- and non-authoritative.
+
+Introduced explicit downstream attribution governance boundaries.
+
+Established the Defensive Attribution Layer as:
+
+- a downstream analytical overlay,
+
+- non-canonical,
+
+- read-only relative to canonical intelligence,
+
+- and linked exclusively through incident_id.
+
+Clarified that attribution mappings:
+
+- do not modify incident records,
+
+- do not modify taxonomy outputs,
+
+- do not modify prevention mappings,
+
+- and do not redefine defensive canon authority.
+
+Authorized downstream attribution outputs including:
+
+- primary_rule_id,
+
+- primary_rule_name,
+
+- primary_tool_id,
+
+- primary_tool_name,
+
+- mapping_status,
+
+- and mapping_confidence.
+
+Introduced explicit derived artifact classification separation.
+
+Defined two derived artifact categories:
+
+- Derived Publication Artifacts
+
+- Derived Analytical Artifacts
+
+Clarified governance and authority distinctions between:
+
+- editorial/publication outputs,
+
+- and downstream analytical overlays.
+
+Introduced registry authority boundary formalization.
+
+Established governance-controlled registry behavior for:
+
+- subtype registries,
+
+- prevention registries,
+
+- CSF Rule Registry,
+
+- CSF Tools Registry,
+
+- and defensive canon reference registries.
+
+Explicitly prohibited registries from:
+
+- modifying canonical incident records,
+
+- silently reinterpreting history,
+
+- overriding immutable Stage 1 intelligence,
+
+- or redefining historical incident meaning.
+
+Introduced registry version pinning requirements.
+
+Authorized explicit registry version declarations including:
+
+- rules_registry_version
+
+- tools_registry_version
+
+Clarified that downstream analytical outputs dependent on registries
+MUST remain reproducible against declared registry versions active
+during generation.
+
+Introduced attribution historical stability and non-retroactivity
+controls.
+
+Established that published attribution outputs:
+
+- MUST NOT be silently rewritten,
+
+- MUST disclose material regeneration,
+
+- and MUST preserve deterministic reproducibility for identical declared
+  inputs and registry versions.
+
+Clarified that attribution outputs remain:
+
+- downstream analytical overlays,
+
+- non-canonical,
+
+- and advisory only.
+
+No changes were made to:
+
+- pipeline stage ordering,
+
+- canonical incident ingest structure,
+
+- Stage 1 authority boundaries,
+
+- taxonomy structure or labels,
+
+- prevention normalization logic,
+
+- immutable incident identity guarantees,
+
+- canonical intelligence authority,
+
+- or deterministic execution guarantees.
+
+Artifacts produced under v1.0\--v1.4 remain valid and unaffected.
+
+
 **v1.4 --- 2026-02-10**
 
 **Status: MINOR (governance extension; non-breaking)**
