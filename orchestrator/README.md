@@ -13,7 +13,7 @@ The orchestrator defines:
 
 The authoritative specification is:
 
-- **CSF-Orchestrator-Spec-v1.0.md**
+- **CSF-Orchestrator-Spec-v1.5.md**
 
 All weekly datasets published in this repository declare
 the orchestrator version used to generate them.
