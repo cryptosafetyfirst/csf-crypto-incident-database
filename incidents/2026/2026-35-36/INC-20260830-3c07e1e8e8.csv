@@ -1,0 +1,2 @@
+﻿"id","first_observed_date","incident_type","incident_subtype","source_name","source_url","summary","user_mistake","prevention","classification_warning"
+"INC-20260830-3c07e1e8e8","2026-08-30","hack","social_engineering_hack","X","https://x.com/RJC_CryptoAxiS/status/2094143489495777499","The user reported that crypto was drained from their wallet through an unidentified mechanism. The stolen funds were subsequently traced to a SolCasino hot wallet containing nearly 4000000 dollars in assets.","none_obvious","none_obvious","insufficient detail to identify compromise vector"
